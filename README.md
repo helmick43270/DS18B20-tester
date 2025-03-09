@@ -1,1 +1,1 @@
-Need to test temp sensors before installing into product. This is set up to test three sensors at a time on an ESP32 dev board using GPIO-Zero, Two, and Four.
+Need to test DS18B20 temp sensors before installing into product. This is set up to test three sensors at a time on an ESP32 dev board using GPIO-Zero, Two, and Four. Pull up the GPIO lines with a 4.7k-ohm resistor. This is NOT set up for parasite power.
